@@ -1,2 +1,2 @@
-Solving programs
+programs
  
