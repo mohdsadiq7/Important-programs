@@ -1,4 +1,4 @@
-# Sorting programs
+# Sorting Algorithm's
 
 1. Bubble Sort
 2. Selection Sort
