@@ -9,3 +9,4 @@
 # Searching Algorithm's
 
 1. Linear Search / Sequential Search
+2. Binary Search
