@@ -5,3 +5,7 @@
 3. Insertion Sort
 4. Merge Sort
 5. Quick Sort 
+
+# Searching Algorithm's
+
+1. Linear Search / Sequential Search
