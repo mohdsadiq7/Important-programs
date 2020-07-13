@@ -11,3 +11,4 @@
 1. Linear Search / Sequential Search
 2. Binary Search
 3. Interpolation Search
+ 
