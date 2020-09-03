@@ -21,6 +21,7 @@
 
 1. Breadth First Search
 2. Depth First Search
+3. Topological Sorting
 
 # Other programs
 
