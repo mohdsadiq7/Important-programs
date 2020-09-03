@@ -12,7 +12,11 @@
 1. Linear Search / Sequential Search
 2. Binary Search 
 3. Interpolation Search
-  
+
+
+# Graph Algorithms 
+
+
 # Other programs
 
 1. Frequency of a character in a string 
