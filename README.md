@@ -6,6 +6,7 @@
 4. Merge Sort using merge
 5. Quick Sort using partition
 6. Heap Sort using heapify
+7. Radix Sort
 
 # Searching Algorithms 
  
