@@ -8,6 +8,7 @@
 6. Heap Sort using heapify
 7. Radix Sort
 8. Count Sort
+9. Shell Sort
 
 # Searching Algorithms 
  
