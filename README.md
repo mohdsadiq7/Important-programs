@@ -7,6 +7,7 @@
 5. Quick Sort using partition
 6. Heap Sort using heapify
 7. Radix Sort
+8. Count Sort
 
 # Searching Algorithms 
  
