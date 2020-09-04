@@ -23,6 +23,8 @@
 2. Depth First Search
 3. Topological Sorting
 4. Prims Algorithm
+5. Kruskals Algorithm
+6. Dijkstras Algorithm
 
 # Other programs
 
