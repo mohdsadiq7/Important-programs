@@ -25,6 +25,7 @@
 4. Prims Algorithm
 5. Kruskals Algorithm
 6. Dijkstras Algorithm
+7. Floyds Algorithm
 
 # Other programs
 
