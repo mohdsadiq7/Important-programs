@@ -26,7 +26,7 @@
 5. Kruskals Algorithm
 6. Dijkstras Algorithm
 7. Floyds Algorithm
-8. Warshalls Agorithm.
+
 
 # Other programs
 
