@@ -19,12 +19,8 @@ void allPalindromicSubstrings(string str)
 	for (int i = 0; i < str.length(); i++)
 	{
 		expand(str, i, i, set);
-
-	
 		expand(str, i, i + 1, set);
 	}
-
-	// print all unique palindromic substrings
 	for (auto i : set)
 		cout << i << " ";
 }
@@ -32,8 +28,6 @@ void allPalindromicSubstrings(string str)
 int main()
 {
 	string str = "sadiq";
-
 	allPalindromicSubstrings(str);
-
 	return 0;
 }
