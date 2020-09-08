@@ -34,3 +34,7 @@
 1. Frequency of a character in a string 
 2. GCD
 3. Tower of Hanoi
+
+# Strings
+
+1. find all unique palindromic substrings of given string
