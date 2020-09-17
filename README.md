@@ -34,6 +34,7 @@
 1. Frequency of a character in a string 
 2. GCD
 3. Tower of Hanoi
+4. Pascal Triangle
 
 # Strings
 
