@@ -39,3 +39,4 @@
 # Strings
 
 1. find all unique palindromic substrings of given string
+2. to check if a string is palindrome or not
